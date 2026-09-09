@@ -1,0 +1,6 @@
+site_name: El Nino vs Commodities Docs
+theme:
+  name: material
+
+plugins:
+  - mkdocstrings
