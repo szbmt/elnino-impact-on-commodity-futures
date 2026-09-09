@@ -129,5 +129,6 @@ Combining climate indices with macro indicators works selectively. It adds measu
 
 - **No statistical checks**: We didn't test if the hit ratios are actually meaningful or just random noise.
 - **No backtest**: This project only measures directional accuracy, it is not a full trading strategy simulation.
+- **Simulation & Equity Curves**: Moving beyond directional accuracy to simulate a full trading strategy, plotting cumulative equity curves (portfolio wealth over time) versus Buy & Hold benchmarks, possibly including transaction costs and maximum drawdown metrics.
 - **Fixed hyperparameters**: Used a single default configuration for XGBoost without grid search.
 - **Manual regimes**: Macro regimes were hand-picked rather than detected algorithmically.
