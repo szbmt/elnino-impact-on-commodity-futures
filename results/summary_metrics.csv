@@ -1,0 +1,7 @@
+Commodity,XGB_Reg_Hit_%,XGB_Cls_Acc_%,Buy_Hold_%,Persistence_%
+cocoa_price,55.0,55.0,54.17,41.67
+coffee_price,52.5,48.75,49.17,45.42
+gold_price,48.33,46.67,55.42,51.67
+soybean_price,56.67,51.25,52.08,51.25
+wheat_price,49.58,50.83,51.67,47.08
+natural_gas_price,50.42,49.58,49.58,53.33
